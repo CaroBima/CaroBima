@@ -1,3 +1,13 @@
+```java
+public class Holamundo {
+    public static void main(String[] args) {
+          System.out.println("Hola GitHub :)");  
+    }
+}
+```
+
+
+
 - 👋 Hi, I’m @CaroBima
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Java
