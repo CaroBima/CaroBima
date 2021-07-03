@@ -16,6 +16,8 @@ public class Holamundo {
 
 
 ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobima&theme=great-gatsby&layout=compact)
+
 
 
 ### My Stack
