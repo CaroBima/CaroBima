@@ -27,7 +27,7 @@ public class Holamundo {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![MySql](http://img.shields.io/badge/-MySql-47A248?style=flat&logo=mysql&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=oracle-sql&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-007ACC?style=flat&logo=xampp&logoColor=white)
+![Sql](http://img.shields.io/badge/-Sql-51CBF2?style=flat&logo=xampp&logoColor=white)
 
 #### UX/UI - Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
