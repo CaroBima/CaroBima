@@ -12,9 +12,9 @@ public class Holamundo {
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on learning purposes projects
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carobima)](https://www.linkedin.com/in/carobima)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carobima)](https://www.linkedin.com/in/carobima)  [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/carobima)](https://www.facebook.com/carobima)
 
-
+<br><br>
 
 ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobima&theme=great-gatsby&layout=compact)
