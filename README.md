@@ -33,7 +33,6 @@ public class Holamundo {
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![MySql](http://img.shields.io/badge/-MySql-51CBF2?style=flat&logo=mysql&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-5849BE?style=flat&logo=oracle&logoColor=white)
 
 #### DevOps:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
