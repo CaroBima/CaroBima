@@ -42,8 +42,8 @@ public class Holamundo {
 
 #### Utilities:
 ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white")
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white")
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white")
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 #### UX/UI - Photography:
