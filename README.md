@@ -30,7 +30,7 @@ public class Holamundo {
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-#### Frameworks:
+#### Frameworks & Library:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6EBF20?style=flat&logo=spring&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-31A8FF?style=flat&logo=ionic&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
