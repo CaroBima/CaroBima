@@ -42,14 +42,12 @@ public class Holamundo {
 ![MySql](http://img.shields.io/badge/-MySql-51CBF2?style=flat&logo=mysql&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
 
-#### DevOps:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-
 #### Utilities:
 ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white")
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 #### UX/UI - Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
