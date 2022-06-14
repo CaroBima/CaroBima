@@ -29,11 +29,17 @@ public class Holamundo {
 
 ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+#### Frameworks:
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6EBF20?style=flat&logo=spring&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-31A8FF?style=flat&logo=ionic&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Application and Data:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![MySql](http://img.shields.io/badge/-MySql-51CBF2?style=flat&logo=mysql&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
 
@@ -45,7 +51,7 @@ public class Holamundo {
 ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white")
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white")
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 
 #### UX/UI - Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
