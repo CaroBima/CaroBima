@@ -11,7 +11,7 @@ public class Holamundo {
 - 👋 Hi, I’m @CaroBima
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Spring Boot, Angular & Ionic
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carobima)](https://www.linkedin.com/in/carobima) - [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/carobima)](https://www.facebook.com/carobima)
+- 📫 Take a look to my  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carobima)](https://www.linkedin.com/in/carobima) and feel free to add me!
 
 <br><br>
 
