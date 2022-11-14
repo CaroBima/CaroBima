@@ -17,8 +17,9 @@ public class Holamundo {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=carobima&theme=highcontrast)](https://git.io/streak-stats)
 
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true) 
 
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobima&layout=compact)](https://github.com/carobima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobima&layout=compact)](https://github.com/carobima/github-readme-stats)
 
 
 
