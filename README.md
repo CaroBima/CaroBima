@@ -55,4 +55,4 @@ public class Holamundo {
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-007ACC?style=flat&logo=adobe-lightroom&logoColor=white)
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carobima?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carobima?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card) -->
