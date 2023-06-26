@@ -15,9 +15,7 @@ public class Holamundo {
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carobima&theme=highcontrast)](https://git.io/streak-stats)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carobima?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=carobima&theme=highcontrast)](https://git.io/streak-stats) -->
 
 <!--![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true) -->
 
@@ -58,7 +56,4 @@ public class Holamundo {
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-007ACC?style=flat&logo=adobe-lightroom&logoColor=white)
 
 
-<!---
-CaroBima/CaroBima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/carobima?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
