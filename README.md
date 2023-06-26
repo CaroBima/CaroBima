@@ -7,7 +7,6 @@ public class Holamundo {
 ```
 
 
-
 - 👋 Hi, I’m @CaroBima
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Spring Boot, Angular & Ionic
