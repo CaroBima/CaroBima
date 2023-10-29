@@ -7,9 +7,8 @@ public class Holamundo {
 ```
 
 
-- 👋 Hi, I’m @CaroBima
-- 👀 I’m interested in Java and Kotlin
-- 🌱 I’m currently learning Spring Boot, Angular & Ionic
+- 👋 Hi! I'm Caro, and I reside in Córdoba, Argentina. I specialize in programming with Java and Angular, with a preference for backend development over frontend. Additionally, I have some experience working briefly with Ionic, integrating it with Angular as well.
+
 - 📫 Take a look to my  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carobima)](https://www.linkedin.com/in/carobima) and feel free to add me!
 
 <br><br>
