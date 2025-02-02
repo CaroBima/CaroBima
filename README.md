@@ -29,6 +29,7 @@ public class Holamundo {
 ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F05032?style=flat&logo=oracle&logoColor=white)
 
 #### Frameworks & Library:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6EBF20?style=flat&logo=spring&logoColor=white)
