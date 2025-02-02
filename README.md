@@ -32,9 +32,10 @@ public class Holamundo {
 
 #### Frameworks & Library:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6EBF20?style=flat&logo=spring&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-31A8FF?style=flat&logo=ionic&logoColor=white)
+![React](https://img.shields.io/badge/React-%23563D7C?style=flat&logo=react&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-31A8FF?style=flat&logo=ionic&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Application and Data:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
